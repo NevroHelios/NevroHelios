@@ -4,7 +4,7 @@
 Confusion is part of programming.
 ```
 ### Hello! Myself Arka
-- I am always learning something new. Feel free to contact me for improvements...
+- I am always learning. Feel free to correct me anytime...
 
 <picture>
   <source
