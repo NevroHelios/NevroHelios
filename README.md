@@ -3,7 +3,7 @@
 
 `"Confusion is part of programming."`
 
-### Hello! Myself Arka
+### Hello! I'm Arka
 - I am always learning. Feel free to correct me on the things I could be doing better...
 
 <picture>
