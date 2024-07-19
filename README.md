@@ -1,10 +1,10 @@
 # NevroHelios
 
-```
-Confusion is part of programming.
-```
+
+`"Confusion is part of programming."`
+
 ### Hello! Myself Arka
-- I am always learning. Feel free to correct me anytime...
+- I am always learning. Feel free to correct me on the things I could be doing better...
 
 <picture>
   <source
