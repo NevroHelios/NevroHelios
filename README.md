@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arka and I'm a Data Scientist, from India</h2>
+<h2 align="left">Hi 👋! My name is Arka</h2>
 
 ###
 
