@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nevrohelios/nevrohelios/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/nevrohelios/nevrohelios/output/snake.svg" alt="Snake animation" /> -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevrohelios&theme=github_dark)
 ###
